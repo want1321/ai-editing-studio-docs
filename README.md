@@ -65,7 +65,13 @@ Check the [Free vs Pro page](https://grigorets.com/studio/pay) for the current P
 
 Timeline editors such as CapCut, and text-based editors such as Descript, give you tools and you make the edit yourself. Caption apps add captions to a video you upload to their cloud. AI Editing Studio works the other way around: Claude makes the whole edit from your raw takes on your own computer, and you direct it in plain language. You keep the files, your style is saved for the next video, and there is no Studio subscription.
 
-Comparison of Claude Code video editing skills: https://grigorets.com/studio/guides/claude-code-video-editing-skills
+## Guides
+
+- [How to edit Instagram Reels automatically with Claude](https://grigorets.com/studio/guide)
+- [Claude Code skills that edit video: seven options compared](https://grigorets.com/studio/guides/claude-code-video-editing-skills)
+- [Best AI video editors for talking-head Reels (2026)](https://grigorets.com/studio/guides/ai-video-editor-talking-head-reels)
+- [CapCut alternatives that edit Reels automatically (2026)](https://grigorets.com/studio/guides/capcut-alternative-automatic-reels)
+- [A ChatGPT or Claude workflow to auto-edit talking-head videos](https://grigorets.com/studio/guides/ai-workflow-talking-head-videos)
 
 ## FAQ
 
