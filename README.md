@@ -72,6 +72,9 @@ Timeline editors such as CapCut, and text-based editors such as Descript, give y
 - [Best AI video editors for talking-head Reels (2026)](https://grigorets.com/studio/guides/ai-video-editor-talking-head-reels)
 - [CapCut alternatives that edit Reels automatically (2026)](https://grigorets.com/studio/guides/capcut-alternative-automatic-reels)
 - [A ChatGPT or Claude workflow to auto-edit talking-head videos](https://grigorets.com/studio/guides/ai-workflow-talking-head-videos)
+- [How to turn raw phone footage into a finished Reel in your own style, without editing software](https://grigorets.com/studio/guides/turn-phone-footage-into-reels-without-editing)
+- [Edit Reels with Claude: MCP video server or local skill?](https://grigorets.com/studio/guides/edit-reels-with-claude-mcp-or-skill)
+- [Instagram First draft and Edits vs AI Reel editors](https://grigorets.com/studio/guides/instagram-first-draft-vs-ai-reel-editors)
 
 ## FAQ
 
