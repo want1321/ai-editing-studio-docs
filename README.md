@@ -80,7 +80,7 @@ Timeline editors such as CapCut, and text-based editors such as Descript, give y
 
 **Is AI Editing Studio free?** Yes. Free Studio is a free download, together with Footage Sorter. Studio Pro is a separate paid edition with more formats, motion effects and caption styles.
 
-**Does it work with ChatGPT?** Free Studio installs as a Claude Code skill, so today you need a Claude plan that includes Claude Code. A ChatGPT edition is being tested.
+**Does it work with ChatGPT?** No. AI Editing Studio works with Claude only: it is a Claude Code skill, so you need a Claude plan that includes Claude Code.
 
 **Is my footage uploaded to a cloud editor?** No. Editing runs on your own computer. Claude Code talks to Anthropic for the AI part as usual, and the website never receives your raw clips.
 
