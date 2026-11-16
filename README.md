@@ -65,6 +65,30 @@ Check the [Free vs Pro page](https://grigorets.com/studio/pay) for the current P
 
 Timeline editors such as CapCut, and text-based editors such as Descript, give you tools and you make the edit yourself. Caption apps add captions to a video you upload to their cloud. AI Editing Studio works the other way around: Claude makes the whole edit from your raw takes on your own computer, and you direct it in plain language. You keep the files, your style is saved for the next video, and there is no Studio subscription.
 
+## MCP video server or a local skill
+
+If you want the edit to happen inside an AI chat, there are two routes, and they differ in where the video is made.
+
+**An MCP server** connects Claude to a cloud video service. Nothing installs on your computer, it works from claude.ai, and the render happens on their infrastructure with their credits, so your footage goes to their storage. [JSON2Video](https://json2video.com/docs/v2/help-for-ai-agents/mcp-server)'s remote server accepts "public URLs only, up to 50 MB per file", so phone clips get uploaded in their dashboard first. [Shotstack](https://shotstack.io/solutions/agentic-video-editing/) renders free and watermarked in its stage environment and spends credits for production renders. [Descript](https://www.descript.com/mcp) and [Kapwing](https://www.kapwing.com/mcp) keep the project in your own account there and charge no separate MCP fee — AI steps spend the credits already on your plan.
+
+**A Claude Code skill** is instructions Claude follows with the tools it already has: your shell, ffmpeg, local models. The render is local and there are no per-video credits. The cost is a one-time terminal setup and one machine: Anthropic's documentation says a personal skill works in "all your projects on this machine, but not Cowork or cloud sessions" ([Claude Code skills](https://code.claude.com/docs/en/skills)). AI Editing Studio is this route.
+
+Pick MCP if you will not open a terminal, or if you render the same template hundreds of times. Pick a skill if your footage should not leave your computer, or if the look has to repeat without paying per video. Full comparison with each official page quoted: [MCP video server or local skill?](https://grigorets.com/studio/guides/edit-reels-with-claude-mcp-or-skill)
+
+## Instagram's own tools first
+
+Before any paid editor, use what Instagram gives you. **First draft** "allows you to create an editable reel draft from clips in your gallery or from the Instagram camera" ([Instagram Help Centre](https://help.instagram.com/3493297487510549/)) — the blank timeline problem, solved free, inside the app you post from. The **Edits** app is "free to download and use" on iOS and Android ([edits.instagram.com](https://edits.instagram.com/)), and since November 2026 there is a Mac version for Apple silicon with a multi-track timeline, keyframes, colour wheels, custom LUT and font import and 4K export with no watermark ([Edits for desktop](https://edits.instagram.com/desktop/)).
+
+Where they stop: both hand you something to finish. First draft gives a draft, Edits gives a timeline, and you choose the takes, the captions and the look every time. No best-take-across-clips feature appears on either page, the desktop app is macOS with Apple silicon only, and neither official page documents driving Edits from Claude, ChatGPT or an MCP client.
+
+So if you post one Reel a month, Instagram's free tools win on effort alone. Studio earns its setup when the same finishing work repeats — three a week, every one needing the same captions, punch-ins and look — or when you are on Windows or Linux. Detail: [Instagram First draft and Edits vs AI Reel editors](https://grigorets.com/studio/guides/instagram-first-draft-vs-ai-reel-editors).
+
+## Compared with one-click auto-edit tools
+
+A whole class of tools turns one uploaded video into a finished short in a click, and they are good at it. [Captions](https://captions.ai/help/docs/project/ai-edit)' AI Edit adds captions, B-roll, music, motion graphics, transitions and custom colour branding, and "detects pauses such as filler sounds (for example, 'um' and 'hmm')" to remove them; it asks for a single person talking, three minutes or less, and footage "not already be edited". [Submagic](https://care.submagic.co/en/article/how-to-use-ai-auto-edit-in-submagic-gaxw7t/)'s AI Auto Edit sets "captions and the caption theme", "B-rolls", "transitions", "zooms and camera movements" and "overall pacing and structure". [Descript](https://www.descript.com/mcp) names Remove Filler Words and Remove Retakes.
+
+The line runs through the input. Every one of those works on a video you upload, so the choosing has already happened: you picked the take. AI Editing Studio starts a step earlier — several raw clips of you saying the same lines more than once — transcribes them with word-level timing and keeps the cleanest take of each line across the clips. No best-take-across-clips selection appears in the documented feature lists above; Descript's Remove Retakes is the nearest named feature. If you film one clean take and want it dressed up, a one-click tool is less work. If you film six takes of every line, the choosing is the job.
+
 ## Guides
 
 - [How to edit Instagram Reels automatically with Claude](https://grigorets.com/studio/guide)
