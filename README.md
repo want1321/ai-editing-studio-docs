@@ -52,14 +52,15 @@ Filming tips: shoot vertical in 4K if your phone allows, keep the camera still f
 | Motion effects | 5 | 50+ |
 | Caption styles | 5 | 50+ |
 | Your own music, PNGs and video | Yes | Yes |
-| Price | Free | $49 one-time |
+| Price | Free | $79 one-time within 48 hours of your first visit to a Studio offer page, $97 after |
 
-Check the [Free vs Pro page](https://grigorets.com/studio/pay) for the current Pro availability. Pro purchases have a full refund within 14 days.
+Pro is an instant download: the download link is emailed right after payment. Check the [Free vs Pro page](https://grigorets.com/studio/pay) for the current price. Pro purchases have a full refund within 14 days of purchase. There is no Studio subscription; the Claude plan that runs it is separate.
 
 ## Who it is for
 
 - **A good fit:** creators, coaches and founders who film themselves talking to the camera and want finished Reels without learning an editor; people who already use Claude and want their Reels to look the same every time, in their own style.
 - **Not a fit:** anyone who wants to edit only on a phone, or who needs a hosted web editor or a hand-made edit by a human editor.
+- **Would rather not set it up?** There is a done-for-you setup: your style is built from 2–3 Reels you love, you approve 3 finished Reels, and your own AI editor is then set up on your computer or your assistant's. The guides by audience below link to it.
 
 ## How it differs from editing apps
 
@@ -99,6 +100,14 @@ The line runs through the input. Every one of those works on a video you upload,
 - [How to turn raw phone footage into a finished Reel in your own style, without editing software](https://grigorets.com/studio/guides/turn-phone-footage-into-reels-without-editing)
 - [Edit Reels with Claude: MCP video server or local skill?](https://grigorets.com/studio/guides/edit-reels-with-claude-mcp-or-skill)
 - [Instagram First draft and Edits vs AI Reel editors](https://grigorets.com/studio/guides/instagram-first-draft-vs-ai-reel-editors)
+
+### By audience
+
+- [Reels for business coaches: post every week without editing them yourself](https://grigorets.com/studio/guides/reels-for-business-coaches)
+- [Reels for real estate agents: get your talking-head Reels edited every week](https://grigorets.com/studio/guides/reels-for-real-estate-agents)
+- [Reels for online course creators: turn lessons into teasers for your course](https://grigorets.com/studio/guides/reels-for-course-creators)
+- [Reels for loan officers: a weekly editing workflow that fits compliance review](https://grigorets.com/studio/guides/reels-for-loan-officers)
+- [Hire a Reels editor or set up your own AI editor: an honest decision guide](https://grigorets.com/studio/guides/reels-editor-or-ai-editor)
 
 ## FAQ
 
